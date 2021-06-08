@@ -52,3 +52,6 @@
   <body onLoad="disableClick()"> 
   </body> 
 </html> 
+
+//Stackoverflow link
+https://stackoverflow.com/questions/25228476/how-to-hide-the-source-code-of-a-html-page
